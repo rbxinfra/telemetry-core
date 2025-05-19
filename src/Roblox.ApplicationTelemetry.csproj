@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+        <Description>Telemetry for components.</Description>
+
+        <Version>1.2.4</Version>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="prometheus-net" Version="8.0.1" />
+	</ItemGroup>
+
+</Project>
